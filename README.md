@@ -1,2 +1,2 @@
 # Sistema3x3
-Resolução de Sistemas Lineares com duas variáveis em C++
+Resolução de Sistemas Lineares com três variáveis em C++
